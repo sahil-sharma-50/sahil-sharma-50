@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil-sharma-50
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Android Studio
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Machine Learning Models
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 You can reach me on instagram : @sahil_sharma_50
 
