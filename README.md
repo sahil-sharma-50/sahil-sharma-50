@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://sahil-sharma-50.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://sahil-sharma-50.io)
 <h1 align="center">Hi 👋, I'm Sahil Shamra</h1>
 <h3 align="center">I am a passionate data analyst, currently doing my master's in Germany.</h3>
 
