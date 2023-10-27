@@ -13,6 +13,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-sharma-50&show_icons=true&locale=en&layout=compact" alt="sahil-sharma-50" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sahil-sharma-50&show_icons=true&locale=en" alt="sahil-sharma-50" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-sharma-50&show_icons=true&locale=en" alt="sahil-sharma-50" />
+<br>
+<br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-sharma-50&" alt="sahil-sharma-50" />
