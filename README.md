@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://sahil-sharma-50.io)
 <h1 align="center">Hi 👋, I'm Sahil Shamra</h1>
-<h3 align="center">I am currently doing my master's in Data Science from Germany.</h3>
+<h3 align="center">I am currently pursuing my master's degree in Data Science from FAU Erlagen.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
